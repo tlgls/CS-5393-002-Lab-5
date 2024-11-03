@@ -1,0 +1,104 @@
+# Dictionary Dataset for Trie Testing
+
+## Common English Prefixes
+prefix
+prefixed
+prefixing
+pre
+prequel
+predict
+prediction
+predicting
+predicted
+pro
+program
+programming
+programmer
+programs
+
+## Technical Terms
+algorithm
+algorithmic
+algorithms
+code
+coding
+coder
+compute
+computer
+computing
+data
+database
+debugging
+
+## Regular Words
+hello
+help
+helping
+helped
+helper
+world
+word
+words
+working
+work
+worker
+workers
+
+## Short Words
+a
+an
+at
+by
+do
+go
+in
+it
+on
+to
+
+## Compound Words
+workplace
+workstation
+workflow
+workplace
+workbook
+worldwide
+
+## Similar Words
+there
+their
+theirs
+they
+then
+these
+those
+
+## Special Cases
+pneumonia
+psychology
+pterodactyl
+xylophone
+yacht
+
+## Words with Numbers
+word2vec
+3dimensional
+4gotten
+2day
+24hours
+
+## Case Variations
+iPhone
+iPad
+iMac
+eBay
+PowerPoint
+JavaScript
+TypeScript
+
+## Edge Cases
+a-frame
+co-worker
+e-mail
+t-shirt
+x-ray
